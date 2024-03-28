@@ -53,7 +53,3 @@ Rating & Hike%:
 - Job role sales executive has highest no of 3+ ratings which is 579.
 - 20% is Highest percentage of hike for YearsAtCompany is 30.
 - 23.7% of employees has both above-average Monthly Income and above-average Job Satisfaction.
-
-![image](https://github.com/AkhilMusuloju/PSYLIQ-HR-Analytics/assets/142907602/2e989cfd-1fba-4e56-bbe4-fdd486e8d5d1)
-
-
