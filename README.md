@@ -26,7 +26,7 @@ _[Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiZTM0ODI4MDItOGRiOS
 
 ## *Dashboard*
 
-![Screenshot 2024-03-28 114833](https://github.com/AkhilMusuloju/PSYLIQ-HR-Analytics/assets/142907602/803c1ac4-96de-4547-89d6-e3347e5636f3)
+![Screenshot 2024-03-28 224113](https://github.com/AkhilMusuloju/PSYLIQ-HR-Analytics/assets/142907602/26ee5cae-5a2d-4e51-8c5f-dfd490ec3c19)
 
 ## *Insights*
 
