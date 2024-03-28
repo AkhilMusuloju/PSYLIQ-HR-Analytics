@@ -5,24 +5,42 @@ In this project, we aim to analyze and gain insights from a comprehensive datase
 
 _[Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiZTM0ODI4MDItOGRiOS00ZGZmLWFkYzAtNGI0ZWI5MmIxZTczIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
 
-## *Tools Used*
-- Power BI
-- Microsoft Excel
+## *Tools Used🛠️*
 
-## *Learnings*
-- Microsoft Excel
-  - Used Power query in Excel to clean and organize the data.
-  - Leveraged excel functions like V/X lookups, Filter, Choosecols, AND, Sumif, AverageX for data extraction and performing calculations.
-  - Applied conditional formatting to filter the top performers.
-  - Used excel charts to visualise the key findings.
- 
-- PowerBI
-  - Used Power query in PowerBI to clean missing values and inconsistency in the data.
-  - Created Data model by establishing relationships between the columns.
-  - Leveraged DAX to create custom columns and measures.
-  - Created Heirarchy fecilitates easy drill down to diferent fields in visuals
-  - Leveraged Field Parameter and created slicer which allows to filter the visual dynamically.
-  - Designed interactive dashboard leveraging differnt visuals from PowerBI.
+ ➡️ Power BI
+
+ ➡️Microsoft Excel
+
+
+
+## *Learnings🔍*
+
+*Microsoft Excel:*
+
+✅Used Power query in Excel to clean and organize the data.
+
+✅Leveraged excel functions like V/X lookups, Filter, Choosecols, AND, Sumif, ✅AverageX for data extraction and performing calculations.
+
+✅Applied conditional formatting to filter the top performers.
+
+✅Used excel charts to visualize the key findings.
+
+
+*PowerBI:*
+
+✅Used Power query in PowerBI to clean missing values and inconsistency in the data.
+
+✅Created Data model by establishing relationships between the columns.
+
+✅Leveraged DAX to create custom columns and measures.
+
+✅Created Hierarchy facilitates easy drill down to different fields in visuals
+
+✅Used Field Parameter and created slicer which allows to filter the visual dynamically.
+
+✅Designed interactive dashboard leveraging different visuals from PowerBI.
+
+Dashboard.
 
 ## *Dashboard*
 
